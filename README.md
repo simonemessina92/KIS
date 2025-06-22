@@ -10,7 +10,7 @@ KIS is your flexible, powerful and scalable solution to **enable real-time IP-ba
 Paste the following command into your terminal:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/simonemessina92/NDICORE/main/KIS_install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/simonemessina92/KIS/main/KIS_install.sh)
 
 This script will:
 
